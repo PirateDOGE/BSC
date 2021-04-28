@@ -3,7 +3,7 @@
 /**
  * PirateDOGE
  * 2% back for Holder and 3% auto add liquid
- * Website: https://piratedoge.finance
+ * Website: https://PirateDOGE.com
  * Telegram: https://t.me/PirateDOGE_PiDOGE
  * Twitter: https://twitter.com/PirateDogeBSC
  * Medium: https://piratedoge.medium.com/
